@@ -1,5 +1,5 @@
-# Alqorithm
-_A novel quantum algorithm builder_
+# ALQORITHM
+_A novel, quantum signal processing-based algorithm builder_
 
 
 There are four main deliverables for this project:
