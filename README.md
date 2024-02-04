@@ -9,5 +9,6 @@ There are four main deliverables for this project:
 4) Presentation summarizing results.
 
 Developed by: Brennan Lagasse, Frank Wong, Pranet Sharma, George Holm, Diya Naik © 2024, Yale University, All Rights Reserved
+
 IBM Quantum Challenge, iQuHACK 2024
 
